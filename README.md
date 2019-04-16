@@ -17,10 +17,10 @@ Also, built a web app where an emergency worker can input a new message and get 
 
 .
 ├── app     
-│   ├── run.py                           # Flask file that runs app
+│   ├── run.py                           
 │   └── templates   
-│       ├── go.html                      # Classification result page of web app
-│       └── master.html                  # Main page of web app    
+│       ├── go.html                      
+│       └── master.html                      
 ├── data                   
 │   ├── disaster_categories.csv          # Dataset including all the categories  
 │   ├── disaster_messages.csv            # Dataset including all the messages
