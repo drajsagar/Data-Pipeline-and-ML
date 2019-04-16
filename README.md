@@ -22,11 +22,11 @@ Also, built a web app where an emergency worker can input a new message and get 
 │       ├── go.html                      
 │       └── master.html                      
 ├── data                   
-│   ├── disaster_categories.csv          # Dataset including all the categories  
-│   ├── disaster_messages.csv            # Dataset including all the messages
-│   └── process_data.py                  # Data cleaning
+│   ├── disaster_categories.csv            
+│   ├── disaster_messages.csv            
+│   └── process_data.py                  
 ├── models
-│   └── train_classifier.py              # Train ML model           
+│   └── train_classifier.py                        
 └── README.md
 
     
